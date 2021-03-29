@@ -1,0 +1,3 @@
+[submodule "src/cmd/vendor/github.com/aghosn/litterbox"]
+	path = src/cmd/vendor/github.com/aghosn/litterbox
+	url = git@github.com:aghosn/litterbox.git
